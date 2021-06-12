@@ -9,6 +9,8 @@ This script reads or creates a tab-separated file
 object. This loops through files in the "data" folder, and if the
 file name is not in the Table, it appends it to the table.
 
+The next time this script is run, it will skip the files listed in "already-processed.tsv".
+
 # How to run
 
 In the Praat Object window, toward the top, click Praat > Open Praat script,and open `main.praat`. Then in the script window that opens, go to Run > Run.
