@@ -11,7 +11,7 @@ file name is not in the Table, it appends it to the table.
 
 # How to run
 
-In the Praat Object window, toward the top, click Praat > Open Praat script,and open the script. Then in the script window that opens, go to Run > Run.
+In the Praat Object window, toward the top, click Praat > Open Praat script,and open `main.praat`. Then in the script window that opens, go to Run > Run.
 
 ### Version of Praat used
 
